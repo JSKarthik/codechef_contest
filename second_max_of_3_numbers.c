@@ -1,5 +1,5 @@
+/*Write a program that accepts sets of three numbers, and prints the second-maximum number among the three.*/
 #include <stdio.h>
-
 int main(void) 
 {
    int t,i,a,b,c;
